@@ -2,7 +2,7 @@
  * Pascal port of QRencode library v 3.4.4, http://fukuchi.org/works/qrencode/
  * 2014 by Ladislav Karrach;  Generated with help of c2pas32  v0.9b
  *****************************************************************************)
-unit qrencode_brgabitmap;
+unit qrencode_bgrabitmap;
 
 {$IFDEF FPC}
  {$mode objfpc}{$H+}

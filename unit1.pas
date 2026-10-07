@@ -6,7 +6,7 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, ExtCtrls,
-  qrencode_brgabitmap,BGRABitmap, BGRABitmapTypes;
+  qrencode_bgrabitmap,BGRABitmap, BGRABitmapTypes;
 
 type
 
