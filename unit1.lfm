@@ -1,0 +1,34 @@
+object Form1: TForm1
+  Left = 694
+  Height = 157
+  Top = 294
+  Width = 435
+  Caption = 'freepascal_qrcode_demo'
+  ClientHeight = 157
+  ClientWidth = 435
+  LCLVersion = '4.8.0.0'
+  object Button1: TButton
+    Left = 184
+    Height = 25
+    Top = 25
+    Width = 75
+    Caption = '转二维'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Image1: TImage
+    Left = 296
+    Height = 120
+    Top = 8
+    Width = 120
+  end
+  object Edit1: TEdit
+    Left = 24
+    Height = 26
+    Top = 24
+    Width = 120
+    TabOrder = 1
+    Text = 'hello zjsxwc'
+    OnChange = Edit1Change
+  end
+end
